@@ -11,6 +11,10 @@ Arduino code for interface with embedded MFC module
 
 
 
+cc2650 stk 
+
+
+
 
 
 
